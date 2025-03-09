@@ -13,7 +13,7 @@ from io import BytesIO
 from PIL import Image, ImageTk
 
 # OpenWeather API Key (replace with your own if needed)
-OPENWEATHER_API_KEY = "8ab060ad06b4fa2accd41a4f8e646025"
+OPENWEATHER_API_KEY = ""
 
 # Global variables for solution mode and selected plants
 solution_mode = None  # "optimal" or "selective"
